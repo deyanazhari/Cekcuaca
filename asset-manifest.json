@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cekcuaca/static/css/main.df1b490a.chunk.css",
+    "main.js": "/Cekcuaca/static/js/main.190bcf42.chunk.js",
+    "main.js.map": "/Cekcuaca/static/js/main.190bcf42.chunk.js.map",
+    "runtime-main.js": "/Cekcuaca/static/js/runtime-main.aa709d99.js",
+    "runtime-main.js.map": "/Cekcuaca/static/js/runtime-main.aa709d99.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Cekcuaca/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.60132d9f.chunk.js": "/Cekcuaca/static/js/2.60132d9f.chunk.js",
+    "static/js/2.60132d9f.chunk.js.map": "/Cekcuaca/static/js/2.60132d9f.chunk.js.map",
+    "index.html": "/Cekcuaca/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Cekcuaca/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.df1b490a.chunk.css.map": "/Cekcuaca/static/css/main.df1b490a.chunk.css.map",
+    "static/js/2.60132d9f.chunk.js.LICENSE.txt": "/Cekcuaca/static/js/2.60132d9f.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/Cekcuaca/static/media/BG2.fefa8444.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa709d99.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.60132d9f.chunk.js",
+    "static/css/main.df1b490a.chunk.css",
+    "static/js/main.190bcf42.chunk.js"
+  ]
+}
